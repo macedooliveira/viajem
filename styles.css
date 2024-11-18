@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #001e70;
     color: white;
     padding: 1rem;
     text-align: center;
@@ -37,7 +37,7 @@ nav ul li a {
 }
 
 .hero {
-    background: url('images/travel.jpg') no-repeat center center/cover;
+    background: url(img/Vista_do_Morro_Dona_Marta.jpg) no-repeat center center/cover;
     height: 60vh;
     display: flex;
     flex-direction: column;
@@ -72,6 +72,7 @@ nav ul li a {
 
 .destino-item {
     flex-basis: 30%;
+    
 }
 
 .destino-item img {
